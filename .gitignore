@@ -71,3 +71,5 @@ tutorial_output/
 api.png
 top10.csv
 test/
+./api/dpla_config_secret.json
+./omdbapi_config_secret.json
